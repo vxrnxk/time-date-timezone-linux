@@ -1,3 +1,4 @@
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 # time-date-timezone-linux
 How to set time, date and timezone in Linux
